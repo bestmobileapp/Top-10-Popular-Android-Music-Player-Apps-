@@ -1,0 +1,2 @@
+# Top-10-Popular-Android-Music-Player-Apps-
+"I noticed many users comment, ‘I don't enjoy streaming my music over the internet, and I don't want any fancy features that will slow down my phone, take up valuable space or resources, or consume my valuable internet data extremely quickly." "All I need is something to play my Music files.’ that is why I also add offline or local music player apps as well in the list”
